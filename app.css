@@ -89,7 +89,7 @@ body{
     margin: 20px auto;
     border: none;
     border-bottom: 1px solid black;
-    background: url(resimler\kostebek.PNG) center no-repeat;
+    background: url(/resimler/kostebek.PNG) center no-repeat;
     background-size: contain;
 }
 .kostebekoyunu p{
